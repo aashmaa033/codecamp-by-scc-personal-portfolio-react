@@ -1,9 +1,9 @@
 export const defaultProfile = {
-  name: "Your Name Here",
-  tagline: "Aspiring developer building something awesome.",
+  name: "Ashma Bhattarai",
+  tagline: "UI/UX Designer passionate about clean design.",
 } as const;
 
 export const profile = {
-  name: "Your Name Here",
-  tagline: "Aspiring developer building something awesome.",
+  name: "Ashma Bhattarai",
+  tagline: "AUI/UX Designer passionate about clean design.",
 };

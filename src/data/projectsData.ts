@@ -7,8 +7,8 @@ export type Project = {
 
 export const defaultProjects: Project[] = [
   {
-    title: "Portfolio Remix",
-    description: "A clean single-page portfolio with a surprise theme unlock.",
+    title: "Sample Project",
+    description: "This is my demo project",
     link: "https://example.com",
     tags: ["React", "CSS"],
   },
